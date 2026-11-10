@@ -110,7 +110,7 @@ JSON
   "dependencies": {
     "express": "^4.18.2"
   },
-  "devDependencies": {
+  "devDependencies": {   
     "jest": "^29.5.0",
     "supertest": "^6.3.3"
   }
